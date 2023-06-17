@@ -6,4 +6,4 @@ class MyWebpackPlugin {
 	};
 };
 
-module.exports = MyPlugin;
+module.exports = MyWebpackPlugin;
